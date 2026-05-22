@@ -2,7 +2,7 @@ ext {
     extName = 'ManhwaClan'
     extClass = '.ManhwaClan'
     themePkg = 'madara'
-    baseUrl = 'https://manhwaclan.com'
+    baseUrl = 'https://clanmanhwa.com'
     overrideVersionCode = 2
     isNsfw = true
 }
